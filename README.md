@@ -22,20 +22,23 @@ The notebook also includes data generation, preprocessing, parsing, evaluation, 
 ## Project Structure
 
 ```text
-- policy_reporter/
-  - Resume_Parser_Full.ipynb
-  - requirements.txt
-  - data/
-    - resumes_dataset/
-      - ground_truth.json
-      - arjun_mehta.pdf
-      - arjun_mehta.docx
-      - fatima_khan.pdf
-      - fatima_khan.docx
-      - jane_doe.pdf
-      - jane_doe.docx
-      - liu_wei.pdf
-      - liu_wei.docx
-      - maria_garcia.pdf
-      - maria_garcia.docx
-      - owen_smith.docx
+## Project Structure
+
+```text
+policy_reporter/
+├── Resume_Parser_Full.ipynb
+├── requirements.txt
+└── data/
+    └── resumes_dataset/
+        ├── ground_truth.json
+        ├── arjun_mehta.pdf
+        ├── arjun_mehta.docx
+        ├── fatima_khan.pdf
+        ├── fatima_khan.docx
+        ├── jane_doe.pdf
+        ├── jane_doe.docx
+        ├── liu_wei.pdf
+        ├── liu_wei.docx
+        ├── maria_garcia.pdf
+        ├── maria_garcia.docx
+        └── owen_smith.docx
