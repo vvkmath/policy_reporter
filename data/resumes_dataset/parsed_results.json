@@ -1,0 +1,82 @@
+{
+  "arjun_mehta": {
+    "name": null,
+    "email": "arjun.mehta@outlook.com",
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Data Engineering",
+      "Docker",
+      "Git",
+      "PyTorch",
+      "TensorFlow"
+    ]
+  },
+  "fatima_khan": {
+    "name": null,
+    "email": "fatima.khan@company.com",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Data Engineering",
+      "Databricks",
+      "AWS",
+      "Docker",
+      "GraphQL"
+    ]
+  },
+  "jane_doe": {
+    "name": null,
+    "email": "jane.doe@gmail.com",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "LLM",
+      "Statistics",
+      "AWS",
+      "Git",
+      "Tableau",
+      "Pandas",
+      "Scikit-learn",
+      "Airflow"
+    ]
+  },
+  "liu_wei": {
+    "name": null,
+    "email": "liu.wei@sample.org",
+    "skills": [
+      "Data Engineering",
+      "Spark",
+      "Databricks",
+      "REST",
+      "Airflow",
+      "Kafka"
+    ]
+  },
+  "maria_garcia": {
+    "name": null,
+    "email": "maria.garcia@proton.me",
+    "skills": [
+      "Python",
+      "NLP",
+      "LLM",
+      "GCP",
+      "Kubernetes",
+      "Tableau",
+      "TensorFlow"
+    ]
+  },
+  "owen_smith": {
+    "name": null,
+    "email": "owen.smith@yahoo.com",
+    "skills": [
+      "SQL",
+      "Statistics",
+      "Azure",
+      "Tableau",
+      "Power BI"
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "arjun_mehta": {
+    "name": "Arjun Mehta",
+    "email": "arjun.mehta@outlook.com",
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Data Engineering",
+      "Docker",
+      "Git",
+      "PyTorch",
+      "TensorFlow",
+      "C++",
+      "MLOps",
+      "CI/CD",
+      "Linux"
+    ]
+  },
+  "fatima_khan": {
+    "name": "Fatima Khan",
+    "email": "fatima.khan@company.com",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Data Engineering",
+      "Databricks",
+      "AWS",
+      "Docker",
+      "GraphQL",
+      "CI/CD",
+      "MLOps",
+      "Terraform",
+      "API Design",
+      "Monitoring"
+    ]
+  },
+  "jane_doe": {
+    "name": "Jane Doe",
+    "email": "jane.doe@gmail.com",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "LLM",
+      "Statistics",
+      "AWS",
+      "Git",
+      "Tableau",
+      "Pandas",
+      "Scikit-learn",
+      "Airflow",
+      "Data Visualization"
+    ]
+  },
+  "liu_wei": {
+    "name": "Liu Wei",
+    "email": "liu.wei@sample.org",
+    "skills": [
+      "Data Engineering",
+      "Spark",
+      "Databricks",
+      "REST",
+      "Airflow",
+      "Kafka",
+      "ETL",
+      "Hadoop",
+      "CI/CD",
+      "Monitoring"
+    ]
+  },
+  "maria_garcia": {
+    "name": "Maria Garcia",
+    "email": "maria.garcia@proton.me",
+    "skills": [
+      "Python",
+      "NLP",
+      "LLM",
+      "GCP",
+      "Kubernetes",
+      "Tableau",
+      "TensorFlow",
+      "Flask",
+      "LangChain",
+      "Prompt Engineering",
+      "BERT",
+      "Data Preprocessing"
+    ]
+  },
+  "owen_smith": {
+    "name": "Owen Smith",
+    "email": "owen.smith@yahoo.com",
+    "skills": [
+      "SQL",
+      "Statistics",
+      "Azure",
+      "Tableau",
+      "Power BI",
+      "Data Visualization",
+      "Experimentation",
+      "A/B Testing",
+      "Business Analysis"
+    ]
+  }
+}

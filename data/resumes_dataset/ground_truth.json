@@ -1,0 +1,97 @@
+{
+  "jane_doe": {
+    "name": "Jane Doe",
+    "email": "jane.doe@gmail.com",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "LLM",
+      "Pandas",
+      "Scikit-learn",
+      "SQL",
+      "Data Visualization",
+      "Git",
+      "AWS",
+      "Statistics"
+    ]
+  },
+  "arjun_mehta": {
+    "name": "Arjun Mehta",
+    "email": "arjun.mehta@outlook.com",
+    "skills": [
+      "Deep Learning",
+      "PyTorch",
+      "Computer Vision",
+      "Docker",
+      "Git",
+      "TensorFlow",
+      "C++",
+      "MLOps",
+      "CI/CD",
+      "Linux"
+    ]
+  },
+  "maria_garcia": {
+    "name": "Maria Garcia",
+    "email": "maria.garcia@proton.me",
+    "skills": [
+      "NLP",
+      "TensorFlow",
+      "LLM",
+      "Kubernetes",
+      "GCP",
+      "Flask",
+      "LangChain",
+      "Prompt Engineering",
+      "BERT",
+      "Data Preprocessing"
+    ]
+  },
+  "liu_wei": {
+    "name": "Liu Wei",
+    "email": "liu.wei@sample.org",
+    "skills": [
+      "Data Engineering",
+      "Spark",
+      "Airflow",
+      "Kafka",
+      "REST",
+      "Databricks",
+      "ETL",
+      "Hadoop",
+      "CI/CD",
+      "Monitoring"
+    ]
+  },
+  "owen_smith": {
+    "name": "Owen Smith",
+    "email": "owen.smith@yahoo.com",
+    "skills": [
+      "Statistics",
+      "SQL",
+      "Azure",
+      "Power BI",
+      "Tableau",
+      "Data Visualization",
+      "Experimentation",
+      "A/B Testing",
+      "Business Analysis"
+    ]
+  },
+  "fatima_khan": {
+    "name": "Fatima Khan",
+    "email": "fatima.khan@company.com",
+    "skills": [
+      "AWS",
+      "Databricks",
+      "Python",
+      "Docker",
+      "GraphQL",
+      "CI/CD",
+      "MLOps",
+      "Terraform",
+      "API Design",
+      "Monitoring"
+    ]
+  }
+}
