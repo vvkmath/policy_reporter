@@ -1,4 +1,4 @@
-# Resume Parser — Rule-based and LLM Extraction
+# Resume Parser - Rule-based and LLM Extraction
 
 This repository contains a complete resume parsing pipeline (Resume_Parser.ipynb) that extracts structured information such as name, email, and skills from resumes in both PDF and Word (.docx) formats.  
 It demonstrates two complementary approaches — a rule-based NLP method and a Large Language Model (LLM)-based extraction using OpenAI's API.  
