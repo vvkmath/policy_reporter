@@ -24,7 +24,6 @@ The notebook also includes data generation, preprocessing, parsing, evaluation, 
 ```text
 ## Project Structure
 
-```text
 policy_reporter/
 ├── Resume_Parser_Full.ipynb
 ├── requirements.txt
